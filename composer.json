@@ -1,0 +1,21 @@
+{
+	"name": "johnny13/li3_backpack",
+	"type": "li3-libraries",
+	"description": "KML Library for Lithium Li3 PHP",
+	"keywords": ["Geolocation", "KML", "mapping", "lithium", "li3", "maps"],
+	"homepage": "https://github.com/johnny13/li3_backpack/blob/master/README.md",
+	"license": "MIT License",
+	"authors": [
+		{
+			"name": "Derek Scott",
+			"email": "derek@huement.com",
+			"homepage": "https://github.com/johnny13"
+		},
+	],
+
+	"require": {
+		"php": ">=5.3",
+		"joseym/li3_installer": "master"
+	}
+
+}
